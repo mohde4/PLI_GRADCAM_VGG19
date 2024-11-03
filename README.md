@@ -1,4 +1,4 @@
-#  Project Description: Enhanced Pneumonia Diagnosis with PLI and Grad-CAM Interpretability Using VGG19
+#  Project Description: Enhanced Pneumonia Interpretability Diagnosis with PLI and Grad-CAM Interpretability Using VGG19
 #  This project focuses on enhancing interpretability in AI-driven medical diagnostics, particularly for pneumonia detection using chest X-ray images. It leverages deep learning techniques and interpretability methods to provide visual explanations of model predictions. The primary components of this project are:
 
 1. Pixel-Level Interpretability (PLI)
