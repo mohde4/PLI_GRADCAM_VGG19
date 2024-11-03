@@ -2,7 +2,7 @@
 git init
 
 # Add remote repository
-git remote add origin https://github.com/mohde4/pli-vs-gradcam-pneumonia.git
+git remote add origin https://github.com/mohde4/PLI_GRADCAM_VGG19.git
 
 # Add files
 git add .
