@@ -18,7 +18,7 @@ Visualization: The generated heatmaps are overlaid on the original image to prov
 Purpose
 The primary goal of this project is to enhance the interpretability of AI models in medical imaging, ensuring that predictions can be understood and trusted by healthcare professionals. By comparing PLI and Grad-CAM, this study aims to determine which method provides more clinically relevant explanations, ultimately contributing to safer and more transparent AI-assisted diagnostics.
 
-# System Requirements for Running the PLI Model
+# System Requirements for Running the Model
 To run the Pixel-Level Interpretability (PLI) model effectively, the following system requirements are recommended:
 
 # Hardware Requirements
