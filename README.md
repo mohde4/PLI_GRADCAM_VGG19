@@ -43,7 +43,7 @@ The study utilizes publicly available chest X-ray datasets. Download the dataset
 - **Pneonomia Chest X-rays Dataset**
 - **https://www.kaggle.com/datasets/paultimothymooney/chest-xray-pneumonia**
 
-## Preprocessing steps include:
+## 4. Preprocessing steps include:
 - **Resizing images to 224x224 pixels.**
 - **Normalizing pixel values.**
 - **Reducing noise using Gaussian filtering.**
@@ -68,12 +68,12 @@ Adjust parameters such as learning rates, epochs, and fuzzification thresholds i
 python validate_model.py --data_path data/test --model_path models/pli_model.h5
 python generate_logs.py --output_path logs/
 ```
-## Troubleshooting
+## 6. Troubleshooting
 - **Dataset Issues: Ensure datasets are downloaded and paths are specified correctly in the scripts.**
 - **Memory Errors: Reduce batch size or use a GPU for training to handle large datasets.**
 - **Script Errors: Check if required dependencies are installed and compatible with your system.**
 
-# System Requirements for Running the Model
+## 7. System Requirements for Running the Model
 To run the Pixel-Level Interpretability (PLI) model effectively, the following system requirements are recommended:
 
 # Hardware Requirements
